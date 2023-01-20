@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T00:22:50.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.8.8" etag="MF12g5vJsYQkG8rgDjcx" type="github"><diagram name="페이지-1" id="tccwzfC08j86pidNUJq4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-20T01:35:51.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="-PGZdJsmlD3LeMUuppj7" version="20.8.8" type="github">
+  <diagram name="페이지-1" id="tccwzfC08j86pidNUJq4">
+    <mxGraphModel dx="1292" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-1" value="시작&lt;br&gt;종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="-162" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-4" value="데이터" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=0;arcSize=12;size=0.23;fontSize=16;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="22" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-5" value="출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=16;labelBackgroundColor=none;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="114" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-6" value="조건식" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;labelBackgroundColor=none;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="206" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-7" value="반복문" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;fontSize=16;labelBackgroundColor=none;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="298" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;fontSize=16;rotation=-180;labelBackgroundColor=none;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="385" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-9" value="처리" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="329" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4ldMZcxMwQPa3fHADV-15" value="처리" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-449" y="-69" width="100" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
